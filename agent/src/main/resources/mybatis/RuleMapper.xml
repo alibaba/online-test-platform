@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.taobao.qa.ruleengine.mapper.RuleMapper">
+    <resultMap id="Rule" type="RuleEntity" >
+        <id  column="id" property="id" />
+        <result column="name" property="name" />
+        <result column="tags" property="tags" />
+        <result column="category" property="category" />
+        <result column="level" property="level"/>
+        <result column="when" property="when"/>
+        <result column="verify" property="verify"/>
+        <result column="then" property="then"/>
+        <result column="enabled" property="enabled"/>
+        <result column="logic_id" property="logic_id"/>
+        <result column="author" property="author"/>
+        <result column="time" property="time"/>
+        <result column="smoketype" property="smoketype"/>
+        <result column="debugtype" property="debugtype"/>
+        <result column="product" property="product"/>
+        <result column="isautogen" property="isautogen"/>
+        <result column="query" property="query"/>
+        <result column="extrinfo" property="extrinfo"/>
+    </resultMap>
+</mapper>
