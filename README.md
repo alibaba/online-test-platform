@@ -238,4 +238,4 @@ MagicOTP目前提供了基础的通过线上请求回放的方式进行功能逻
 # 联系我们
 
 MagicOTP由阿里集团-新零售智能引擎事业群-广告产品技术事业部-技术质量-引擎&基础测试及平台团队荣誉出品，欢迎通过邮件组magicotp-opensource@list.alibaba-inc.com和github issue联系和反馈。
-![center|image](https://github.com/alibaba/online-test-platform/raw/master/dingtalk.png)
+<img src="https://github.com/alibaba/online-test-platform/raw/master/dingtalk.png" width="30%" height="30%"></img>
