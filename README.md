@@ -47,6 +47,8 @@ MagicOTP (Online Test Platform)是一个开源的线上测试平台，思想是�
 ```
    3. agent/src/main/resources/applicationContext.xml
       <property name="url" value="jdbc:mysql://ip:3306/steed"/>
+      <property name="username" value="****"/>
+      <property name="password" value="******"/>
 ```
 
 进入agent目录，启动agent
