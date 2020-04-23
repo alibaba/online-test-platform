@@ -231,10 +231,12 @@ MagicOTP (Online Test Platform)是一个开源的线上测试平台，思想是�
 
 # 常见问题
 
-1. agent出现“java.lang.NoClassDefFoundError”错误。
+- agent出现“java.lang.NoClassDefFoundError”错误。
+   
    原因在于未修改规则引擎的数据库用户名、密码相关配置，修改后重新部署即可。
    
-2. MagicOTP前端页面中文乱码如何解决？
+- MagicOTP前端页面中文乱码如何解决？
+   
    数据库编码问题，请修改编码为utf-8.
 
 # 后续开源计划
