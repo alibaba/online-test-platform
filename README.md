@@ -253,3 +253,5 @@ MagicOTP由阿里集团-新零售智能引擎事业群-广告产品技术事业�
 
 
 <img src="https://github.com/alibaba/online-test-platform/raw/master/dingtalk.png" width="30%" height="30%"></img>
+![钉钉群](dingtalk.png)
+
